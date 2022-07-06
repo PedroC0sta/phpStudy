@@ -1,2 +1,2 @@
 # phpStudy
-Repo de estudo de php
+Repositório de estudos de PHP
